@@ -1,0 +1,15 @@
+{
+  "name": "meditation-app-with-games",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A calm meditation app with three mindful games to help you refocus and get back to the task.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  }
+}
